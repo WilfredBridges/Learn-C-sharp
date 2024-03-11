@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bridg\\OneDrive\\Documents\\GitHub\\C#\\C#.csproj": {}
+    "C:\\Users\\bridg\\OneDrive\\Documents\\GitHub\\C#\\MadLibs\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bridg\\OneDrive\\Documents\\GitHub\\C#\\C#.csproj": {
+    "C:\\Users\\bridg\\OneDrive\\Documents\\GitHub\\C#\\MadLibs\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bridg\\OneDrive\\Documents\\GitHub\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\bridg\\OneDrive\\Documents\\GitHub\\C#\\MadLibs\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\bridg\\OneDrive\\Documents\\GitHub\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\bridg\\OneDrive\\Documents\\GitHub\\C#\\MadLibs\\C#.csproj",
         "packagesPath": "C:\\Users\\bridg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bridg\\OneDrive\\Documents\\GitHub\\C#\\obj\\",
+        "outputPath": "C:\\Users\\bridg\\OneDrive\\Documents\\GitHub\\C#\\MadLibs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bridg\\AppData\\Roaming\\NuGet\\NuGet.Config"
